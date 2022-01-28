@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "tasksApp",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
